@@ -1,0 +1,14 @@
+{
+  "name": "04.poo",
+  "version": "1.0.0",
+  "description": "Exemplo Semana 4",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Lucas Antunes",
+  "license": "ISC"
+}
